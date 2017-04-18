@@ -7,7 +7,7 @@ package m06_uf4_proyecto;
 
 /**
  *
- * @author AITOR
+ * @author AITOR i VICENS
  */
 public class M06_UF4_Proyecto {
 
